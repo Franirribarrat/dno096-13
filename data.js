@@ -2,7 +2,7 @@
     {
         "nombre": "Amanita muscaria",
         "descripcion": "Este hongo es conocido por su característico sombrero rojo con manchas blancas, una de las especies de hongos más icónicas y fácilmente reconocibles. Crece comúnmente en bosques de coníferas y caducifolios, a menudo asociado con pinos y abedules. Aunque es venenoso si se consume crudo, ha sido utilizado en varias culturas en ceremonias tradicionales debido a sus propiedades psicoactivas. La Amanita muscaria destaca en el ecosistema como un hongo micorrízico, estableciendo relaciones simbióticas con las raíces de ciertos árboles, lo cual es fundamental para la salud del suelo y el crecimiento forestal.",
-        "fecha": "Aracuania",
+        "fecha": "Araucania",
         "signo": "funga",
         "foto": "https://raw.githubusercontent.com/Franirribarrat/dno096-13/refs/heads/main/img/pamanita01.webp",
         "fotos": ["amanita01.webp", "amanita02.webp", "amanita03.webp"],
@@ -12,7 +12,7 @@
     {
         "nombre": "Chincol",
         "descripcion":"El chincol es un ave pequeña y robusta, fácilmente identificable por su plumaje marrón y gris, con una distintiva franja negra en su cabeza y garganta. Es una especie común en la región de La Araucanía, donde habita en áreas rurales, jardines y campos abiertos. Su canto melodioso es característico de las mañanas y marca su territorio durante la época de reproducción. Adaptable y sociable, el chincol juega un papel importante en el ecosistema al controlar insectos y dispersar semillas."
-        "fecha": "Aaraucania",
+        "fecha": "Araucania",
         "signo": "fauna",
         "foto": "https://raw.githubusercontent.com/Franirribarrat/dno096-13/refs/heads/main/img/pchincol01.webp",
         "fotos": ["chincol01.webp", "chincol02.webp", "chincol02.webp"],
@@ -30,7 +30,7 @@
     {
         "nombre": "Cola de pavo",
         "descripcion":"Este hongo, llamado así por su parecido con la cola de un pavo, se distingue por sus bandas concéntricas de colores que van del marrón y gris al blanco. Crece en forma de abanico sobre troncos y ramas caídas en los bosques de La Araucanía, donde cumple un importante rol ecológico al descomponer materia orgánica. Además de su llamativa apariencia, el Trametes versicolor es conocido por sus propiedades medicinales, utilizadas en distintas culturas."
-        "fecha": "Aaraucania",
+        "fecha": "Araucania",
         "signo": "funga",
         "foto": "https://raw.githubusercontent.com/Franirribarrat/dno096-13/refs/heads/main/img/phongo01.webp",
         "fotos": ["hongo01.webp", "hongo02.webp", "hongo03.webp"],
