@@ -4,7 +4,7 @@
         "descripcion": "Este hongo es conocido por su característico sombrero rojo con manchas blancas, una de las especies de hongos más icónicas y fácilmente reconocibles. Crece comúnmente en bosques de coníferas y caducifolios, a menudo asociado con pinos y abedules. Aunque es venenoso si se consume crudo, ha sido utilizado en varias culturas en ceremonias tradicionales debido a sus propiedades psicoactivas. La Amanita muscaria destaca en el ecosistema como un hongo micorrízico, estableciendo relaciones simbióticas con las raíces de ciertos árboles, lo cual es fundamental para la salud del suelo y el crecimiento forestal.",
         "fecha": "Aracuania",
         "signo": "funga",
-        "foto": "https://github.com/Franirribarrat/dno096-08/blob/main/portafolio_010.png?raw=true",
+        "foto": ["pamanita01.webp"],
         "fotos": ["amanita01.webp", "amanita02.webp", "amanita03.webp"],
         "github": "https://github.com/franirribarrat"
 
@@ -85,7 +85,7 @@
         "nombre": "Oreja de palo",
         "fecha": "Caillin",
         "signo": "fuga",
-        "foto": "https://github.com/Franirribarrat/dno096-08/blob/main/portafolio_07.png?raw=true",
+        "foto": "https://raw.githubusercontent.com/Franirribarrat/dno096-13/refs/heads/main/img/orejadepalo03.webp",
         "fotos": ["orejadepalo01.webp", "orejadepalo02.webp", "orejadepalo03.webp"],
         "github": "https://github.com/franirribarrat"
     },
