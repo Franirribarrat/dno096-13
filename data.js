@@ -94,7 +94,7 @@
         "descripcion": "Conocido como oreja de palo por su forma distintiva que recuerda a una oreja humana, este hongo tiene una coloración que varía entre el marrón oscuro y el gris, con una textura gelatinosa y suave. Crece en troncos y ramas muertas, especialmente en ambientes húmedos de bosques, como los de La Araucanía. Además de su peculiar apariencia, el hongo oreja de palo es comestible y se utiliza en diversas preparaciones culinarias en varias culturas. Su presencia en el ecosistema contribuye a la descomposición de la materia orgánica, desempeñando un papel vital en el reciclaje de nutrientes en el hábitat.",
         "fecha": "Caillin",
         "signo": "funga",
-        "foto": "https://raw.githubusercontent.com/Franirribarrat/dno096-13/refs/heads/main/img/porejadepalo01.webp",
+        "foto": "porejadepalo01.wepb",
         "fotos": ["orejadepalo01.webp", "orejadepalo02.webp", "orejadepalo03.webp"],
         "github": "https://github.com/franirribarrat"
     },
